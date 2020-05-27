@@ -7,3 +7,4 @@ Let's compare which one is faster, original numeric way or this string way
 # Observation
 
 The string way is definitely faster than the original approach.
+Why don't we use more smarter and faster approach!

@@ -1,5 +1,7 @@
 def is_palindromic(number: int) -> bool:
+	# convert the number into string and revert the string
 	num_str = str(number)[::-1]
+	# compare the original number with reverted integer
 	if number == int(num_str):
 		return True
 	return False
